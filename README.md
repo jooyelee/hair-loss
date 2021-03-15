@@ -32,6 +32,10 @@ AI로 탈모를 판별할 수 있나?
 
 를 먼저 해결해보자
 
+## 관련 논문들
+
+[Combining Deep Learning With Optical Coherence Tomography Imaging to Determine Scalp Hair and Follicle Counts](http://onlinelibrary.wiley.com.ssl.oca.korea.ac.kr/doi/full/10.1002/lsm.23324)
+
 
 
 
